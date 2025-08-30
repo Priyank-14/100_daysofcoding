@@ -12,3 +12,4 @@ Q9.Write a program to calculate simple and compound interest for given principal
 Q10.Write a program to input time in seconds and convert it to hours:minutes:seconds format.
 Q11.Write a program to input an integer and check whether it is even or odd using if–else.
 Q12.Write a program to input an integer and check whether it is positive, negative or zero using nested if–else.
+Q13.Write a program to input a year and check whether it is a leap year or not using conditional statements.
