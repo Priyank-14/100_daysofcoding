@@ -20,6 +20,6 @@ Q17.Write a program to find the roots of a quadratic equation and categorize the
 Q18.Write a program to assign grades based on a percentage input.
 Q19.Write a program to classify a triangle as Equilateral, Isosceles, or Scalene based on its side lengths.
 Q20.Write a program to display the day of the week based on a number (1–7) using switch-case.
-
-
+Q21.Write a program to display the month name and number of days using switch-case for a given month number.
+Q22.Write a program to find profit or loss percentage given cost price and selling price.
 
