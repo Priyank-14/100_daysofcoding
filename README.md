@@ -22,4 +22,5 @@ Q19.Write a program to classify a triangle as Equilateral, Isosceles, or Scalene
 Q20.Write a program to display the day of the week based on a number (1–7) using switch-case.
 Q21.Write a program to display the month name and number of days using switch-case for a given month number.
 Q22.Write a program to find profit or loss percentage given cost price and selling price.
-
+Q23.Write a program to calculate a library fine based on late days.
+Q24.Write a program to calculate an electricity bill based on units consumed.
