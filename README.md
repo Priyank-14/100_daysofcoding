@@ -24,3 +24,8 @@ Q21.Write a program to display the month name and number of days using switch-ca
 Q22.Write a program to find profit or loss percentage given cost price and selling price.
 Q23.Write a program to calculate a library fine based on late days.
 Q24.Write a program to calculate an electricity bill based on units consumed.
+Q25.Write a program to implement a basic calculator using switch-case for +, -, *, /, %.
+Q26.Write a program to print numbers from 1 to n.
+
+
+
