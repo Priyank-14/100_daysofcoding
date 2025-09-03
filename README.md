@@ -26,6 +26,12 @@ Q23.Write a program to calculate a library fine based on late days.
 Q24.Write a program to calculate an electricity bill based on units consumed.
 Q25.Write a program to implement a basic calculator using switch-case for +, -, *, /, %.
 Q26.Write a program to print numbers from 1 to n.
+Q27.Write a program to print the sum of the first n odd numbers.
+Q28.Write a program to print the product of even numbers from 1 to n.
+
+
+
+
 
 
 
