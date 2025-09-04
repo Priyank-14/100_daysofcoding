@@ -28,7 +28,8 @@ Q25.Write a program to implement a basic calculator using switch-case for +, -, 
 Q26.Write a program to print numbers from 1 to n.
 Q27.Write a program to print the sum of the first n odd numbers.
 Q28.Write a program to print the product of even numbers from 1 to n.
-
+Q29.Write a program to calculate the factorial of a number.
+Q30.Write a program to reverse a given number.
 
 
 
