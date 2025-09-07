@@ -34,6 +34,9 @@ Q31.Write a program to take a number as input and print its equivalent binary re
 Q32.Write a program to check if a number is a palindrome.
 Q33.Write a program to check if a number is an Armstrong number.
 Q34.Write a program to check if a number is prime.
+Q35.Write a program to print all factors of a given number.
+Q36.Write a program to find the HCF (GCD) of two numbers.
+
 
 
 
