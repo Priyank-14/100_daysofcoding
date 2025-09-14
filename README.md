@@ -36,6 +36,45 @@ Q33.Write a program to check if a number is an Armstrong number.
 Q34.Write a program to check if a number is prime.
 Q35.Write a program to print all factors of a given number.
 Q36.Write a program to find the HCF (GCD) of two numbers.
+Q37.Write a program to find the LCM of two numbers.
+Q38.Write a program to find the sum of digits of a number.
+Q39.Write a program to find the product of odd digits of a number.
+Q40.Write a program to find the 1’s complement of a binary number and print it.
+Q41.Write a program to swap the first and last digit of a number.
+Q42.Write a program to check if a number is a perfect number.
+Q43.Write a program to check if a number is a strong number.
+Q44.Write a program to find the sum of the series: 1 + 3/4 + 5/6 + 7/8 + … up to n terms.
+Q45.Write a program to find the sum of the series: 2/3 + 4/7 + 6/11 + 8/15 + ... up to n terms.
+Q46.Write a program to print the following pattern:
+*****
+*****
+*****
+*****
+*****
+Q47.Write a program to print the following pattern:
+*
+**
+***
+****
+*****
+Q48.Write a program to print the following pattern:
+1
+12
+123
+1234
+12345
+Q49.Write a program to print the following pattern:
+5
+45
+345
+2345
+12345
+Q50.Write a program to print the following pattern:
+*****
+****
+***
+**
+*
 
 
 
