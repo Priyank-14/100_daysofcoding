@@ -75,7 +75,52 @@ Q50.Write a program to print the following pattern:
 ***
 **
 *
+Q51.Write a program to print the following pattern:
+5
+45
+345
+2345
+12345
+Q52.Write a program to print the following pattern:
 
+*
+
+*
+*
+*
+
+*
+*
+*
+*
+*
+
+*
+*
+*
+
+*
+Q53.Write a program to print the following pattern:
+*
+***
+*****
+*******
+*********
+*******
+*****
+***
+*
+Q54.Write a program to print the following pattern:
+
+*
+
+***
+
+*****
+*******
+***
+
+*
 
 
 
