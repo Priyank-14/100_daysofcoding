@@ -122,6 +122,7 @@ Q54.Write a program to print the following pattern:
 
 *
 
+Q55: Write a program to print all the prime numbers from 1 to n.
 
 
 
