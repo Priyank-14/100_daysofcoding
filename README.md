@@ -123,7 +123,11 @@ Q54.Write a program to print the following pattern:
 *
 
 Q55: Write a program to print all the prime numbers from 1 to n.
-
-
-
+Q56.Read and print elements of a one-dimensional array.
+Q57.Find the sum of array elements.
+Q58.Find the maximum and minimum element in an array.
+Q59.Count even and odd numbers in an array.
+Q60.Count positive, negative, and zero elements in an array.
+Q61.Search for an element in an array using linear search.
+Q62.Reverse an array without taking extra space.
 
