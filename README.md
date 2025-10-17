@@ -130,4 +130,13 @@ Q59.Count even and odd numbers in an array.
 Q60.Count positive, negative, and zero elements in an array.
 Q61.Search for an element in an array using linear search.
 Q62.Reverse an array without taking extra space.
+Q63.Merge two arrays.
+Q64.Find the digit that occurs the most times in an integer number.
+Q65.Search in a sorted array using binary search.
+Q66.Insert an element in a sorted array at the appropriate position.
+Q67.Insert an element in an array at a given position.
+Q68.Delete an element from an array.
+Q69.Find the second largest element in an array.
+Q70.Rotate an array to the right by k positions.
+
 
