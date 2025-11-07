@@ -138,5 +138,15 @@ Q67.Insert an element in an array at a given position.
 Q68.Delete an element from an array.
 Q69.Find the second largest element in an array.
 Q70.Rotate an array to the right by k positions.
+Q71.Read and print a matrix.
+Q72.Find the sum of all elements in a matrix.
+Q73.Find the sum of each row of a matrix and store it in an array.
+Q74.Find the transpose of a matrix.
+Q75.Add two matrices.
+Q76.Check if a matrix is symmetric.
+Q77.Check if the elements on the diagonal of a matrix are distinct.
+Q78.Find the sum of main diagonal elements for a square matrix.
+Q79.Perform diagonal traversal of a matrix.
+Q80.Multiply two matrices.
 
 
