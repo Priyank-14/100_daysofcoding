@@ -158,5 +158,14 @@ Q87.Count spaces, digits, and special characters in a string.
 Q88.Replace spaces with hyphens in a string.
 Q89.Count frequency of a given character in a string.
 Q90.Toggle case of each character in a string.
-
+Q91.Remove all vowels from a string.
+Q92.Find the first repeating lowercase alphabet in a string.
+Q93.Check if two strings are anagrams of each other.
+Q94.Find the longest word in a sentence.
+Q95.Check if one string is a rotation of another.
+Q96.Reverse each word in a sentence without changing the word order.
+Q97.Print the initials of a name.
+Q98.Print initials of a name with the surname displayed in full.
+Q99.Change the date format from dd/04/yyyy to dd-Apr-yyyy.
+Q100.Print all sub-strings of a string.
 
