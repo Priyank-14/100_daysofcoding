@@ -148,5 +148,15 @@ Q77.Check if the elements on the diagonal of a matrix are distinct.
 Q78.Find the sum of main diagonal elements for a square matrix.
 Q79.Perform diagonal traversal of a matrix.
 Q80.Multiply two matrices.
+Q81.Count characters in a string without using built-in length functions.
+Q82.Print each character of a string on a new line.
+Q83.Count vowels and consonants in a string.
+Q84.Convert a lowercase string to uppercase without using built-in functions.
+Q85.Reverse a string.
+Q86.Check if a string is a palindrome.
+Q87.Count spaces, digits, and special characters in a string.
+Q88.Replace spaces with hyphens in a string.
+Q89.Count frequency of a given character in a string.
+Q90.Toggle case of each character in a string.
 
 
