@@ -193,6 +193,8 @@ Q116.Write a program to take an integer array nums which contains only positive 
 Q117.Write a program to take two sorted arrays of size m and n as input. Merge both the arrays such that the merged array is also sorted. Print the merged array.
 Q118.Write a program to take an input array of size n. The array should contain all the integers between 0 to n except for one. Print that missing number
 Q119.Write a program to take an integer array as input. Only one element will be repeated. Print the repeated element. Try to find the result in one single iteration.
+Q120.Write a program to take a string input. Change it to sentence case.
+
 
 
 
