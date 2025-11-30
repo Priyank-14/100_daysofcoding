@@ -194,6 +194,17 @@ Q117.Write a program to take two sorted arrays of size m and n as input. Merge b
 Q118.Write a program to take an input array of size n. The array should contain all the integers between 0 to n except for one. Print that missing number
 Q119.Write a program to take an integer array as input. Only one element will be repeated. Print the repeated element. Try to find the result in one single iteration.
 Q120.Write a program to take a string input. Change it to sentence case.
+Q121.Write a C program that creates a text file named info.txt in write mode. The program should take the user’s name and age as input, and write them to the file using fprintf(). After writing, display a message confirming that the data was successfully saved.
+Q122.Write a C program that opens an existing file (e.g., info.txt) and reads its contents using fgets(). The program should print all the lines to the console until EOF (end of file) is reached.
+Q123.Read a text file and count the total number of characters, words, and lines. A word is defined as a sequence of non-space characters separated by spaces or newlines.
+Q124.Take two filenames from the user – a source file and a destination file. Copy all the content from the source file to the destination file using fgetc() and fputc().
+Q125.Open an existing file in append mode and allow the user to enter a new line of text. Append the text at the end without overwriting existing content.
+Q126.Ask the user for a filename. Check if it exists by trying to open it in read mode. If the file pointer is NULL, print an error message; otherwise, read and display its content.
+Q127.Write a program that reads text from input.txt, converts all lowercase letters to uppercase, and writes the result to output.txt.
+Q128.Read a text file and count how many vowels and consonants are in the file. Ignore digits and special characters.
+Q129.A file numbers.txt contains a list of integers separated by spaces. Read all integers, compute their sum and average, and print both.
+Q130.Store multiple student records (name, roll number, marks) into a file using fprintf(). Then read them using fscanf() and display each record.
+
 
 
 
