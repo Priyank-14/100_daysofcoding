@@ -204,6 +204,27 @@ Q127.Write a program that reads text from input.txt, converts all lowercase lett
 Q128.Read a text file and count how many vowels and consonants are in the file. Ignore digits and special characters.
 Q129.A file numbers.txt contains a list of integers separated by spaces. Read all integers, compute their sum and average, and print both.
 Q130.Store multiple student records (name, roll number, marks) into a file using fprintf(). Then read them using fscanf() and display each record.
+Q131.Create an enumeration for days (SUNDAY to SATURDAY) and print each day with its integer value.
+Q132.Define an enum for traffic lights (RED, YELLOW, GREEN) and print 'Stop', 'Wait', or 'Go' based on its value.
+Q133.Create an enum for months and print how many days each month has.
+Q134.Define an enum with SUCCESS, FAILURE, and TIMEOUT, and print messages accordingly.
+Q135.Assign explicit values starting from 10 and print them.
+Q136.Use enum to represent menu choices (ADD, SUBTRACT, MULTIPLY) and perform operations using switch.
+Q137.Create an enum for user roles (ADMIN, USER, GUEST) and display messages based on role.
+Q138.Print all enum names and integer values using a loop.
+Q139.Show that enums store integers by printing assigned values.
+Q140.Define a struct with enum Gender and print person's gender.
+Q141.Define a structure Student with name, roll_no, and marks, then read and print one student's data.
+Q142.Store details of 5 students in an array of structures and print all.
+Q143.Find and print the student with the highest marks.
+Q144.Write a function that accepts a structure as parameter and prints its members.
+Q145.Return a structure containing top student's details from a function.
+Q146.Create Employee structure with nested Date structure for joining date and print details.
+Q147.Store employee data in a binary file using fwrite() and read using fread().
+Q148.Take two structs as input and check if they are identical.
+Q149.Use malloc() to allocate structure memory dynamically and print details.
+Q150.Use pointer to struct to modify and display data using -> operator.
+
 
 
 
